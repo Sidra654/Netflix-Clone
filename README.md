@@ -1,6 +1,8 @@
 # Netflix Clone
  🎬 Netflix Clone 🎥
+ <br>
  Welcome to the Netflix Clone project! 🚀 
+ <br>
  This is a simplified version of Netflix, created purely with HTML and CSS. Explore a sleek, modern interface inspired by the popular streaming platform, showcasing your skills in front-end development!🌟
  Features ✨
  •	Sleek UI Design: A beautifully crafted user interface that closely mirrors Netflix 🎨
